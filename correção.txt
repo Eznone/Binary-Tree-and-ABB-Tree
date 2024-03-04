@@ -1,0 +1,19 @@
+a: 1/1
+
+b: 0/1
+Não fez.
+
+c: 1/1
+
+d: 1/1
+
+e: 0.8/1
+Redundancia no if. Legibilidade foi prejuducada.
+
+f: 1/1
+
+g: 1/1
+
+relatorio: 0/3
+
+Perdeu 10% da nota pelo atraso
